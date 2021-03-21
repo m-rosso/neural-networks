@@ -1,0 +1,422 @@
+{
+  "1615342252": {
+    "hyper_parameters": {
+      "C": "0.001",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8986690071051372,
+      "avg_avg_prec_score": 0.30803851607197913,
+      "avg_brier_score": 0.010101221070407602,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "13.6 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615343069": {
+    "hyper_parameters": {
+      "C": "0.01",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8998559249744836,
+      "avg_avg_prec_score": 0.3086968835301761,
+      "avg_brier_score": 0.01010953260959315,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "13.77 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615343896": {
+    "hyper_parameters": {
+      "C": "0.1",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.915404391280552,
+      "avg_avg_prec_score": 0.34209523360059085,
+      "avg_brier_score": 0.009792275642033043,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "12.88 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615344669": {
+    "hyper_parameters": {
+      "C": "1.0",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.94071416244681,
+      "avg_avg_prec_score": 0.46244807993559783,
+      "avg_brier_score": 0.008356124216593857,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "11.6 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615345366": {
+    "hyper_parameters": {
+      "C": "10.0",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9492950579603672,
+      "avg_avg_prec_score": 0.4908121566606671,
+      "avg_brier_score": 0.0079050704763733,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "10.15 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615345976": {
+    "hyper_parameters": {
+      "C": "0.001",
+      "kernel": "poly",
+      "degree": 2,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.856475043266884,
+      "avg_avg_prec_score": 0.23888357221982268,
+      "avg_brier_score": 0.01093620305425448,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "14.88 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615346869": {
+    "hyper_parameters": {
+      "C": "0.01",
+      "kernel": "poly",
+      "degree": 2,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.884615134287588,
+      "avg_avg_prec_score": 0.26585437406811896,
+      "avg_brier_score": 0.01095438602736847,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "14.63 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615347748": {
+    "hyper_parameters": {
+      "C": "0.1",
+      "kernel": "poly",
+      "degree": 2,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9128958488444906,
+      "avg_avg_prec_score": 0.3231239817633953,
+      "avg_brier_score": 0.01076543546217795,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "14.62 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615348625": {
+    "hyper_parameters": {
+      "C": "1.0",
+      "kernel": "poly",
+      "degree": 2,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.92940520977659,
+      "avg_avg_prec_score": 0.39970500906660944,
+      "avg_brier_score": 0.009271576451037844,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "14.85 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615349516": {
+    "hyper_parameters": {
+      "C": "10.0",
+      "kernel": "poly",
+      "degree": 2,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9288068201428917,
+      "avg_avg_prec_score": 0.435524664933525,
+      "avg_brier_score": 0.008480672655441272,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "15.23 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615350431": {
+    "hyper_parameters": {
+      "C": "0.001",
+      "kernel": "poly",
+      "degree": 3,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.841127749481044,
+      "avg_avg_prec_score": 0.21685931492363517,
+      "avg_brier_score": 0.011125627530857142,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "15.37 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615351353": {
+    "hyper_parameters": {
+      "C": "0.01",
+      "kernel": "poly",
+      "degree": 3,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8761534630764604,
+      "avg_avg_prec_score": 0.2451216170693159,
+      "avg_brier_score": 0.010870166448116824,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "15.93 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615352310": {
+    "hyper_parameters": {
+      "C": "0.1",
+      "kernel": "poly",
+      "degree": 3,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8968764021675353,
+      "avg_avg_prec_score": 0.27491221999362553,
+      "avg_brier_score": 0.011154217780930552,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "17.32 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615353349": {
+    "hyper_parameters": {
+      "C": "1.0",
+      "kernel": "poly",
+      "degree": 3,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9147338162131246,
+      "avg_avg_prec_score": 0.3385123668954676,
+      "avg_brier_score": 0.010271556048140468,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "18.87 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615354482": {
+    "hyper_parameters": {
+      "C": "10.0",
+      "kernel": "poly",
+      "degree": 3,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9179964597581001,
+      "avg_avg_prec_score": 0.40076962472475725,
+      "avg_brier_score": 0.008947257027555916,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "20.98 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615355742": {
+    "hyper_parameters": {
+      "C": "0.001",
+      "kernel": "poly",
+      "degree": 4,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8420115279743208,
+      "avg_avg_prec_score": 0.2082217684550507,
+      "avg_brier_score": 0.010993723109587279,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "17.43 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615356788": {
+    "hyper_parameters": {
+      "C": "0.01",
+      "kernel": "poly",
+      "degree": 4,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8587644654382652,
+      "avg_avg_prec_score": 0.21873150918842993,
+      "avg_brier_score": 0.011346116246722056,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "18.65 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615357908": {
+    "hyper_parameters": {
+      "C": "0.1",
+      "kernel": "poly",
+      "degree": 4,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8756793270581971,
+      "avg_avg_prec_score": 0.24612136191782902,
+      "avg_brier_score": 0.011523211749480672,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "20.42 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615359133": {
+    "hyper_parameters": {
+      "C": "1.0",
+      "kernel": "poly",
+      "degree": 4,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8919869237861853,
+      "avg_avg_prec_score": 0.29076197341121784,
+      "avg_brier_score": 0.011574547670675622,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "26.0 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615360694": {
+    "hyper_parameters": {
+      "C": "10.0",
+      "kernel": "poly",
+      "degree": 4,
+      "gamma": "scale"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8949333122956841,
+      "avg_avg_prec_score": 0.3556504213601648,
+      "avg_brier_score": 0.01157338842488778,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "30.13 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615402205": {
+    "hyper_parameters": {
+      "C": "10.0",
+      "kernel": "poly",
+      "degree": 1,
+      "gamma": "scale"
+    },
+    "n_estimations": 100,
+    "performance_metrics": {
+      "application": "test",
+      "avg_roc_auc": 0.9413861896560567,
+      "avg_avg_prec_score": 0.4899181956685069,
+      "avg_brier_score": 0.008749164370650299,
+      "std_roc_auc": 3.842092669338993e-06,
+      "std_avg_prec_score": 3.512326058491296e-05,
+      "std_brier_score": 2.3694495503915517e-05
+    },
+    "running_time": "1008.53 minutes",
+    "comment": "Final estimation."
+  }
+}

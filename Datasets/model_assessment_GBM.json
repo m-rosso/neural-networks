@@ -1,0 +1,422 @@
+{
+  "1615551936": {
+    "hyper_parameters": {
+      "subsample": "0.9598030901135345",
+      "max_depth": "5",
+      "learning_rate": "0.09422746014371519",
+      "n_estimators": "523"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9445140549575713,
+      "avg_avg_prec_score": 0.3866422752729532,
+      "avg_brier_score": 0.009575755497837804,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "23.08 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615553321": {
+    "hyper_parameters": {
+      "subsample": "0.6427877387298072",
+      "max_depth": "2",
+      "learning_rate": "0.08584237614370978",
+      "n_estimators": "562"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9471622347900261,
+      "avg_avg_prec_score": 0.4751129886182904,
+      "avg_brier_score": 0.00870603890255457,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "9.13 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615553870": {
+    "hyper_parameters": {
+      "subsample": "0.9331082174344221",
+      "max_depth": "4",
+      "learning_rate": "0.07758269430849254",
+      "n_estimators": "499"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9450029830729102,
+      "avg_avg_prec_score": 0.419677239586946,
+      "avg_brier_score": 0.008993132901803707,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "15.95 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615554827": {
+    "hyper_parameters": {
+      "subsample": "0.5124606686955917",
+      "max_depth": "3",
+      "learning_rate": "0.06157220704773959",
+      "n_estimators": "163"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9412025974922463,
+      "avg_avg_prec_score": 0.44128384516729313,
+      "avg_brier_score": 0.0088535653689098,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "4.67 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615555108": {
+    "hyper_parameters": {
+      "subsample": "0.8784779222684376",
+      "max_depth": "4",
+      "learning_rate": "0.0805863642157635",
+      "n_estimators": "351"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.945807870381784,
+      "avg_avg_prec_score": 0.43067486074198036,
+      "avg_brier_score": 0.008853061224633136,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "9.98 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615556666": {
+    "hyper_parameters": {
+      "subsample": "0.5638141361469999",
+      "max_depth": "2",
+      "learning_rate": "0.06946536769903416",
+      "n_estimators": "308"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.944828239099457,
+      "avg_avg_prec_score": 0.45614359962849677,
+      "avg_brier_score": 0.008981362290454008,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "5.02 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615556968": {
+    "hyper_parameters": {
+      "subsample": "0.9843951879119975",
+      "max_depth": "1",
+      "learning_rate": "0.03479861890483245",
+      "n_estimators": "782"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9454577907509947,
+      "avg_avg_prec_score": 0.47703865160900494,
+      "avg_brier_score": 0.008159997578051921,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "3.78 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615557195": {
+    "hyper_parameters": {
+      "subsample": "0.7118400417035669",
+      "max_depth": "4",
+      "learning_rate": "0.04679578634247878",
+      "n_estimators": "884"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9491773128676453,
+      "avg_avg_prec_score": 0.45210959044511384,
+      "avg_brier_score": 0.008903104184650108,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "30.85 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615559047": {
+    "hyper_parameters": {
+      "subsample": "0.8243354273385988",
+      "max_depth": "3",
+      "learning_rate": "0.08135834905699557",
+      "n_estimators": "464"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9454713994803042,
+      "avg_avg_prec_score": 0.4581761895075541,
+      "avg_brier_score": 0.008782225260552732,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "10.8 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615559695": {
+    "hyper_parameters": {
+      "subsample": "0.7475108703503186",
+      "max_depth": "5",
+      "learning_rate": "0.09830069047690719",
+      "n_estimators": "373"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9295669367046167,
+      "avg_avg_prec_score": 0.32030299085303343,
+      "avg_brier_score": 0.010520236821050254,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "15.73 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615560640": {
+    "hyper_parameters": {
+      "subsample": "0.7855770369179904",
+      "max_depth": "4",
+      "learning_rate": "0.06224100898924935",
+      "n_estimators": "779"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9456504824688997,
+      "avg_avg_prec_score": 0.38814793230373457,
+      "avg_brier_score": 0.009570796997408072,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "25.72 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615562183": {
+    "hyper_parameters": {
+      "subsample": "0.564935835303451",
+      "max_depth": "3",
+      "learning_rate": "0.055321526018248884",
+      "n_estimators": "124"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.940699074507793,
+      "avg_avg_prec_score": 0.4259635516104616,
+      "avg_brier_score": 0.009061258544165224,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "3.45 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615562390": {
+    "hyper_parameters": {
+      "subsample": "0.7675979851138063",
+      "max_depth": "1",
+      "learning_rate": "0.013202692164942886",
+      "n_estimators": "867"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9367627002480141,
+      "avg_avg_prec_score": 0.42173759294905244,
+      "avg_brier_score": 0.008509790752625276,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "5.33 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615562711": {
+    "hyper_parameters": {
+      "subsample": "0.53509441732124",
+      "max_depth": "3",
+      "learning_rate": "0.09899364476127188",
+      "n_estimators": "745"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.930767759145214,
+      "avg_avg_prec_score": 0.35729595324113667,
+      "avg_brier_score": 0.010184060192543053,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "17.27 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615563747": {
+    "hyper_parameters": {
+      "subsample": "0.5803623178080404",
+      "max_depth": "2",
+      "learning_rate": "0.06391181917384191",
+      "n_estimators": "343"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9449739905626421,
+      "avg_avg_prec_score": 0.47321110316175624,
+      "avg_brier_score": 0.008578349417022504,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "5.42 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615564073": {
+    "hyper_parameters": {
+      "subsample": "0.8238057852390793",
+      "max_depth": "3",
+      "learning_rate": "0.09175757852856524",
+      "n_estimators": "569"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9430222226605066,
+      "avg_avg_prec_score": 0.38128001542706147,
+      "avg_brier_score": 0.009529484713300335,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "11.68 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615564775": {
+    "hyper_parameters": {
+      "subsample": "0.5244708846524835",
+      "max_depth": "1",
+      "learning_rate": "0.08690297576499696",
+      "n_estimators": "423"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9380045461045012,
+      "avg_avg_prec_score": 0.36984492631570753,
+      "avg_brier_score": 0.00919378633543183,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "3.67 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615564995": {
+    "hyper_parameters": {
+      "subsample": "0.6771139033502985",
+      "max_depth": "1",
+      "learning_rate": "0.04972154405699894",
+      "n_estimators": "144"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9313971135687907,
+      "avg_avg_prec_score": 0.3717999138775399,
+      "avg_brier_score": 0.00882378660338157,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "1.15 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615565064": {
+    "hyper_parameters": {
+      "subsample": "0.725339871557563",
+      "max_depth": "2",
+      "learning_rate": "0.012866437337883873",
+      "n_estimators": "209"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9237942715138724,
+      "avg_avg_prec_score": 0.3763985590852863,
+      "avg_brier_score": 0.00889818490449409,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "3.12 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615565252": {
+    "hyper_parameters": {
+      "subsample": "0.9456088856900078",
+      "max_depth": "5",
+      "learning_rate": "0.038361126043384555",
+      "n_estimators": "248"
+    },
+    "n_estimations": 1,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9467128508808693,
+      "avg_avg_prec_score": 0.4447707490838447,
+      "avg_brier_score": 0.00858717793195051,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 0.0
+    },
+    "running_time": "12.07 minutes",
+    "comment": "Defining hyper-parameters."
+  },
+  "1615580184": {
+    "hyper_parameters": {
+      "subsample": "0.6427877387298072",
+      "max_depth": "2",
+      "learning_rate": "0.08584237614370978",
+      "n_estimators": "562"
+    },
+    "n_estimations": 100,
+    "performance_metrics": {
+      "application": "test",
+      "avg_roc_auc": 0.9477972580823952,
+      "avg_avg_prec_score": 0.44130902765543456,
+      "avg_brier_score": 0.009877275233010097,
+      "std_roc_auc": 0.003960834964191441,
+      "std_avg_prec_score": 0.03307601463232852,
+      "std_brier_score": 0.0005000422282273587
+    },
+    "running_time": "771.3 minutes",
+    "comment": "Final estimation."
+  }
+}
