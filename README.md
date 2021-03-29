@@ -4,3 +4,6 @@ This project seeks to apply neural network models for a binary classification pr
 <br>
 <br>
 The repository contains theoretical discussion that has based empirical applications and the analysis of results for the adopted stratgy of hyper-parameters definition. Besides, codes and data with outcomes from the tests are also presented.
+<br>
+<br>
+**Note:** this collection of tests have not considered AutoML and architecture search techniques. In addition to representing empirical applications of theoretical studies, this inquirement helps defining ranges of values for hyper-parameters and most promising architecture definitions. A robust deep learning system, though, should define its hyper-parameters preferably through automated methods.
