@@ -1,0 +1,257 @@
+{
+  "1615057635": {
+    "hyper_parameters": {
+      "regul_param": 0.0001
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.5,
+      "avg_avg_prec_score": 0.011700095510983763,
+      "avg_brier_score": 0.09118428198947721,
+      "std_roc_auc": 0.0,
+      "std_avg_prec_score": 0.0,
+      "std_brier_score": 5.587264329303408e-07
+    },
+    "running_time": "0.6 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057671": {
+    "hyper_parameters": {
+      "regul_param": 0.0003
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.550642341884809,
+      "avg_avg_prec_score": 0.01861389105184421,
+      "avg_brier_score": 0.02088500460996275,
+      "std_roc_auc": 2.41657296708345e-05,
+      "std_avg_prec_score": 8.376743766875932e-05,
+      "std_brier_score": 5.524977934969635e-06
+    },
+    "running_time": "0.63 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057710": {
+    "hyper_parameters": {
+      "regul_param": 0.001
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.7647152077550035,
+      "avg_avg_prec_score": 0.09077953405061195,
+      "avg_brier_score": 0.012217680434605591,
+      "std_roc_auc": 0.0007780992287404667,
+      "std_avg_prec_score": 0.000708947628202061,
+      "std_brier_score": 2.6417720900228144e-06
+    },
+    "running_time": "0.63 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057749": {
+    "hyper_parameters": {
+      "regul_param": 0.003
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.8872999787979943,
+      "avg_avg_prec_score": 0.24273533882089088,
+      "avg_brier_score": 0.010187934421904233,
+      "std_roc_auc": 0.000321152018074355,
+      "std_avg_prec_score": 0.0003940793341134548,
+      "std_brier_score": 1.311800595629018e-06
+    },
+    "running_time": "0.63 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057787": {
+    "hyper_parameters": {
+      "regul_param": 0.01
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9347380368914902,
+      "avg_avg_prec_score": 0.41063993982655533,
+      "avg_brier_score": 0.008631730300835559,
+      "std_roc_auc": 4.999543639468123e-05,
+      "std_avg_prec_score": 0.0004078808483729983,
+      "std_brier_score": 1.5032547052845095e-06
+    },
+    "running_time": "0.73 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057832": {
+    "hyper_parameters": {
+      "regul_param": 0.03
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9472210481679989,
+      "avg_avg_prec_score": 0.4832450787648148,
+      "avg_brier_score": 0.007894768400116482,
+      "std_roc_auc": 3.151018986214939e-05,
+      "std_avg_prec_score": 0.000319661535357558,
+      "std_brier_score": 1.5139869145197142e-06
+    },
+    "running_time": "0.95 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057890": {
+    "hyper_parameters": {
+      "regul_param": 0.1
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9556288761457712,
+      "avg_avg_prec_score": 0.5063266013320779,
+      "avg_brier_score": 0.007688565880725784,
+      "std_roc_auc": 4.237453643258362e-05,
+      "std_avg_prec_score": 0.00020423135765825176,
+      "std_brier_score": 1.3675719062705351e-06
+    },
+    "running_time": "1.5 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615057981": {
+    "hyper_parameters": {
+      "regul_param": 0.25
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9559588188017416,
+      "avg_avg_prec_score": 0.49491118046848415,
+      "avg_brier_score": 0.007965723146253314,
+      "std_roc_auc": 2.051217256313976e-05,
+      "std_avg_prec_score": 0.0002666497695778802,
+      "std_brier_score": 1.6896205193100764e-06
+    },
+    "running_time": "2.4 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615058125": {
+    "hyper_parameters": {
+      "regul_param": 0.3
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9553783571896988,
+      "avg_avg_prec_score": 0.49018331618351396,
+      "avg_brier_score": 0.00808193969076228,
+      "std_roc_auc": 3.442800350313305e-05,
+      "std_avg_prec_score": 0.00020924350820223706,
+      "std_brier_score": 2.0591647650067755e-06
+    },
+    "running_time": "2.7 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615058288": {
+    "hyper_parameters": {
+      "regul_param": 0.5
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.952853878734388,
+      "avg_avg_prec_score": 0.4798026384385815,
+      "avg_brier_score": 0.008394274899516295,
+      "std_roc_auc": 5.6982895518001955e-05,
+      "std_avg_prec_score": 0.0006014207157433433,
+      "std_brier_score": 5.284757257623695e-06
+    },
+    "running_time": "3.53 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615058500": {
+    "hyper_parameters": {
+      "regul_param": 0.75
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9505770594297152,
+      "avg_avg_prec_score": 0.47474972265148246,
+      "avg_brier_score": 0.008647400585824567,
+      "std_roc_auc": 0.00011258705767773757,
+      "std_avg_prec_score": 0.0006021350708127002,
+      "std_brier_score": 5.998209111508159e-06
+    },
+    "running_time": "4.2 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615058752": {
+    "hyper_parameters": {
+      "regul_param": 1
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9478628476759152,
+      "avg_avg_prec_score": 0.46534737247095326,
+      "avg_brier_score": 0.008911666517795364,
+      "std_roc_auc": 7.502138141389134e-05,
+      "std_avg_prec_score": 0.0004403515407521987,
+      "std_brier_score": 8.927285984926166e-06
+    },
+    "running_time": "4.75 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615059038": {
+    "hyper_parameters": {
+      "regul_param": 3
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.934620429858341,
+      "avg_avg_prec_score": 0.4109092982942023,
+      "avg_brier_score": 0.010596798720026245,
+      "std_roc_auc": 0.00011776112094522387,
+      "std_avg_prec_score": 0.0005593851991906194,
+      "std_brier_score": 6.829225009438877e-06
+    },
+    "running_time": "9.97 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615059637": {
+    "hyper_parameters": {
+      "regul_param": 10
+    },
+    "n_estimations": 10,
+    "performance_metrics": {
+      "application": "validation",
+      "avg_roc_auc": 0.9164675288815696,
+      "avg_avg_prec_score": 0.3536217362310934,
+      "avg_brier_score": 0.013133095349506324,
+      "std_roc_auc": 0.00010426011579520244,
+      "std_avg_prec_score": 0.0005420433414446054,
+      "std_brier_score": 1.6928637457117427e-05
+    },
+    "running_time": "24.58 minutes",
+    "comment": "Defining regularization parameter."
+  },
+  "1615061729": {
+    "hyper_parameters": {
+      "regul_param": 0.25
+    },
+    "n_estimations": 100,
+    "performance_metrics": {
+      "application": "test",
+      "avg_roc_auc": 0.9554087232454986,
+      "avg_avg_prec_score": 0.5050078601202718,
+      "avg_brier_score": 0.008911950281143168,
+      "std_roc_auc": 5.787520022151355e-05,
+      "std_avg_prec_score": 0.0008663565966630781,
+      "std_brier_score": 8.315131361881927e-06
+    },
+    "running_time": "25.68 minutes",
+    "comment": "Final estimation."
+  }
+}
