@@ -23,7 +23,7 @@ from tensorflow.keras.activations import swish
 ####################################################################################################################################
 # Neural network estimation with evaluation on validation data:
 
-class keras_nn(object):
+class KerasNN(object):
     """
 	This class provides an object consisting on a feedforward neural network constructed upon Tensorflow and Keras functions and
 	objects. Its objective is to provide succinct codes for implementing neural networks estimation just providing model's
