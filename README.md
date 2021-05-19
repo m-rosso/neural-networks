@@ -1,9 +1,9 @@
-## Neural networks applications
+## Neural networks
 
-This project seeks to apply neural network models for a binary classification problem (fraud detection). Most importantly, a strategy for hyper-parameters definition is implemented in order to explore possibilities of parameters tuning in the context of neural network modeling, which has a particularly large set of hyper-parameters to be specified so performance can be optimized.
+This repository contains early studies concerning neural networks. Three main topics are present here: folder "Tests" has codes, datasets, and discussions over empirical applications of feedforward neural networks; folder "PyTorch Tutorial" contains codes for applying PyTorch library; finally, folder "Tutorial" presents a Jupyter notebook that makes use of a Python class, named *KerasNN*, developed to simplify even further the use of Tensorflow/Keras library to implement data modeling based on neural networks.
 <br>
 <br>
-The repository contains theoretical discussion that has based empirical applications and the analysis of results for the adopted stratgy of hyper-parameters definition. Besides, codes and data with outcomes from the tests are also presented.
+The class *KerasNN* provides an object consisting of a feedforward neural network constructed upon Tensorflow and Keras functions and classes. Its objective is to provide succinct codes for implementing neural networks by simply providing model's architecture and its main hyper-parameters, besides training, validation, and test data. Full documentation of this class can be found in Python module "keras_nn.py", but some of the components that can be declared when initializing a KerasNN object is number of layers, number of neurons, activation function of each layer, dropout and regularization parameters, optimization strategy (SGD, Adam) and its parameters (learning rate, decay, momentum), early stopping configuration.
 <br>
 <br>
-**Note:** this collection of tests have not considered AutoML and architecture search techniques. In addition to representing empirical applications of theoretical studies, this inquirement helps defining ranges of values for hyper-parameters and most promising architecture definitions. A robust deep learning system, though, should define its hyper-parameters preferably through automated methods.
+In addition to its straightforward use, KerasNN class has some relevant attributes after fitting a model. Together with all attributes that follow from Keras model, costs and performance metrics by epoch of training are available, helping with the understanding of how the network evolves throughout its training process.
